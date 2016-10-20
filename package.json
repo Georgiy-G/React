@@ -1,0 +1,15 @@
+{
+  "name": "react-ru-tutorial",
+  "version": "1.0.0",
+  "description": "React RU tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rider",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.17.4",
+    "express": "^4.14.0"
+  }
+}
